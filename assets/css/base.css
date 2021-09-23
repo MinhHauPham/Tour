@@ -1,0 +1,28 @@
+html {
+    font-family: "Poppins", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: initial;
+}
+
+:root {
+    --primary-color: #f3a46b;
+    --black-color: #555555;
+    --violet-color: #c755da;
+    --yelow-color: #ffd205;
+    --white-color: #ffffff;
+    --lightblue-color: #14bdd1;
+    --lightRed-color: #f7696f;
+    --lightViolet-color: #bf71cb;
+    --lightGreen-color: #1bbc9b;
+}
+a.unlink {
+    color: inherit;
+}
+a.unlink:hover {
+    color: inherit;
+}
